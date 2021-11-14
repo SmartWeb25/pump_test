@@ -1,0 +1,28 @@
+html, body {
+  font-family: 'Roboto', tahoma, verdana, arial, sans-serif;
+  font-size: 16px;
+  color: #141823;
+}
+
+.pl-2 {
+  padding-left: 0.5rem;
+}
+.pr-2 {
+  padding-right: 0.5rem;
+}
+.filters-wrp {
+  display: flex;
+  justify-content: flex-start;
+  overflow-wrap: ;
+  margin-bottom: 20px;
+}
+.filters-wrp .searchbox-wrp {
+  margin-right: 20px;
+  margin-bottom: 10px;  
+}
+
+.filters-wrp .toggle-wrp {
+  margin-bottom: 10px;
+  display: flex;
+}
+ 
